@@ -4,3 +4,4 @@
 !/uploads/images/avatars/.gitkeep
 /uploads/images/prescriptions/*
 !/uploads/images/prescriptions/.gitkeep
+*.env
